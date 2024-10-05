@@ -1,5 +1,5 @@
 
-# Cinthias
+# Commit Design
 
 A clone of an award-winning product designer website using HTML, CSS, JavaScript, Locomotive Scroll for scroll triggers, and GSAP for animations. Inspired and guided by Sheriansh Coding School on YouTube.
 
@@ -16,7 +16,7 @@ A clone of an award-winning product designer website using HTML, CSS, JavaScript
 
 ## Overview
 
-Cinthias is a meticulously crafted clone of a renowned product designer's website. The project showcases smooth scrolling effects and intricate animations to create an engaging user experience.
+Commit  is a meticulously crafted clone of a renowned product designer's website. The project showcases smooth scrolling effects and intricate animations to create an engaging user experience.
 
 ## Features
 
@@ -30,12 +30,12 @@ Cinthias is a meticulously crafted clone of a renowned product designer's websit
 - CSS
 - JavaScript
 - Locomotive Scroll
-- GSAP
+- GASP
 
 ## Installation
 
 1. Clone the repository:
    ```sh
-    https://utkarshahu.github.io/cinthias/
+    https://raghav5711.github.io/commit.design/
 
-The website not only offers an engaging user experience but also ensures responsive design, making it accessible on various devices. Inspired by tutorials from Sheriansh Coding School on YouTube, Cinthias stands as a testament to meticulous web development and creative design. Perfect for those looking to showcase a sleek and modern product designer portfolio. add in concide
+The website not only offers an engaging user experience but also ensures responsive design, making it accessible on various devices. Inspired by tutorials from Sheriansh Coding School on YouTube, Cinthias stands as a testament to meticulous web development and creative design. Perfect for those looking to showcase a sleek and modern product designer portfolio. add in coincide
